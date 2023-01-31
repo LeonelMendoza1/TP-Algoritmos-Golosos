@@ -1,0 +1,40 @@
+{
+  "centros": [
+    {
+      "latitud": -34.521568,
+      "longitud": -58.700252,
+      "habilitado": false,
+      "latAux": -34.521568,
+      "longAux": -58.700252,
+      "promedioDistancia": 0.0,
+      "numero": 0
+    },
+    {
+      "latitud": -34.513682,
+      "longitud": -58.707504,
+      "habilitado": false,
+      "latAux": -34.513682,
+      "longAux": -58.707504,
+      "promedioDistancia": 0.0,
+      "numero": 0
+    },
+    {
+      "latitud": -34.523689,
+      "longitud": -58.714886,
+      "habilitado": false,
+      "latAux": -34.523689,
+      "longAux": -58.714886,
+      "promedioDistancia": 0.0,
+      "numero": 0
+    },
+    {
+      "latitud": -34.515238,
+      "longitud": -58.691969,
+      "habilitado": false,
+      "latAux": -34.515238,
+      "longAux": -58.691969,
+      "promedioDistancia": 0.0,
+      "numero": 0
+    }
+  ]
+}
